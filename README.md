@@ -6,3 +6,8 @@ So this is Basically a  Simple Dice roller app which i learnt to build using the
 
 And here is a simple preview of the App:
 ![App preview](https://github.com/akshbswas98/diceRollsample/blob/master/device-2020-07-27-132216.gif?raw=true)
+## Built With
+
+* [Android Studio](https://developer.android.com/studio) - The Android framework used
+* [Kotlin](https://kotlinlang.org/ - Dependency Management
+
